@@ -15,5 +15,11 @@ I execute SQL queries to answer these three questions:
 
 1. Do the number of hours a student studies and participation affect average exam scores?
 2. Display the range of hours studied vs. the average exam score
-3. Can you rank students according to attendance, hours studied, sleep hours, tutoring sessions, and exam scores so that students with the same exam score are in the same rank? 
+3. Can you rank students according to attendance, hours studied, sleep hours, tutoring sessions, and exam scores so that students with the same exam score are in the same rank?
+
+Findings 
+* Students who study more hours and participate in extra-curricular activities have average high exam scores
+
+![exam score vs study hrs](https://github.com/user-attachments/assets/0fb41cd5-d739-45c4-81bb-39f17db239cd)
+
 
